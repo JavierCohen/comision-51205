@@ -13,14 +13,13 @@
   margin: 0 10px;
 }
 
-.Cart {
+.Cart{
   display: flex;
   justify-content: flex-end;
-  margin-right: 10px;
   font-size: 20px;
   color: antiquewhite;
 }
 
 .Cart img {
-  margin-right: 5px;
+  margin-right: 10px;
 }
