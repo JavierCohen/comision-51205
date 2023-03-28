@@ -14,7 +14,6 @@ function App() {
         <ItemListContainer greeting={'Bienvenidos'}/>
       </div>
     </div>
-
   );
 }
 
