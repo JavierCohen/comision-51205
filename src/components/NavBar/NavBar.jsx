@@ -8,7 +8,7 @@ import Navbar from 'react-bootstrap/Navbar';
 // Creo mi componente NavBar
 const NavBar = () => {
     return (
-        <Navbar NavBar expand="lg" bg="dark" variant="dark">
+        <Navbar expand="lg" bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#home">💻 PC Store</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
